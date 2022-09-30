@@ -71,10 +71,10 @@
         "style_sss": "",
         "style_ultrakill": "",
         
-        "style_weaponFresh": "FRESCO",
-        "style_weaponUsed": "USADO",
-        "style_weaponStale": "DURO",
-        "style_weaponDull": "TEDIOSO",
+        "style_weaponFresh": "ARMA FRESCA",
+        "style_weaponUsed": "ARMA USADA",
+        "style_weaponStale": "ARMA VIEJA",
+        "style_weaponDull": "ARMA ABURRIDA",
 	    
 	"stylemeter_multiplier": ""
     },
@@ -88,7 +88,7 @@
         "cybergrind_style": "ESTILO",
         "cybergrind_time": "TIEMPO",
         
-        "cybergrind_cgTitle": "CIBER RUTINA",
+        "cybergrind_cgTitle": "CIBERARENA",
         "cybergrind_previousRun": "MEJOR",
         "cybergrind_bestRun": "NUEVO",
         
@@ -99,8 +99,8 @@
         "cybergrind_friendScores": "PUNTUACIONES DE AMIGOS",
         "cybergrind_globalScores": "PUNTUACIONES GLOBALES",
         
-        "cybergrind_settings": "CONFIGURACIONES DE LA CIBER RUTINA",
-        "cybergrind_settingsDescription": "Este terminal se utiliza para la personalización de la ciber rutina.",
+        "cybergrind_settings": "CONFIGURACIONES DE LA CIBERARENA",
+        "cybergrind_settingsDescription": "Este terminal se utiliza para la personalización de la CIBERARENA.",
         "cybergrind_themes": "TEMAS",
         "cybergrind_patterns": "PATRONES",
         "cybergrind_waves": "OLEADAS",

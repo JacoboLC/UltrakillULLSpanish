@@ -1075,7 +1075,7 @@
         "enemyname_boss_swordsmachineTundra": "MAQUINA DE ESPADAS TUNDRA",
         "enemyname_boss_corpseOfKingMinos": "EL CADAVER DEL REY MINOS",
         "enemyname_boss_gabriel": "GABRIEL, JUEZ DEL INFIERNO",
-        "enemyname_boss_insurrectionist": "SISIFO INSURGENTE",
+        "enemyname_boss_insurrectionist": "INSURGENTE DE SISIFO",
         "enemyname_boss_mandalore": "MISTERIOSO CABALLERO DRUIDA (Y BUHO)",
         "enemyname_boss_v2": "V2",
         "enemyname_boss_v2Second": "V2 (2do)",
@@ -1083,11 +1083,11 @@
         "enemyname_boss_leviathan": "LEVIATAN",
         "enemyname_boss_insurrectionistAngry": "INSURGENTE ENFADADO",
         "enemyname_boss_insurrectionistRude": "INSURGENTE RUDO",
-        "enemyname_boss_gabrielSecond": "GABRIEL, APOSTATA DEL ODIO",
+        "enemyname_boss_gabrielSecond": "GABRIEL, APOSTOL DEL ODIO",
         
-        "enemyname_type_lesserHusk": "TIPO: CASCARA MENOR",
-        "enemyname_type_greaterHusk": "TIPO: CASCARA MAYOR",
-        "enemyname_type_supremeHusk": "TIPO: CASCARA SUPREMA",
+        "enemyname_type_lesserHusk": "TIPO: HUSK MENOR",
+        "enemyname_type_greaterHusk": "TIPO: HUSK MAYOR",
+        "enemyname_type_supremeHusk": "TIPO: HUSK SUPREMA",
         
         "enemyname_type_lesserDemon": "TIPO: DEMONIO MENOR",
         "enemyname_type_greaterDemon": "TIPO: DEMONIO MAYOR",
@@ -1101,7 +1101,7 @@
         "enemyname_type_greaterAngel": "TIPO: ANGEL MAYOR",
         "enemyname_type_supremeAngel": "TIPO: ANGEL SUPREMO",
         
-        "enemyname_type_primeSoul": "TIPO: ALMA PRIME"
+        "enemyname_type_primeSoul": "TIPO: ALMA PRIMORDIAL"
         
 	},
     
@@ -1125,15 +1125,15 @@
         "cheats_infinitePowerUps": "Power-ups ∞",
         "cheats_blindEnemies": "Enemigos ciegos",
         "cheats_disableEnemySpawns": "Quitar spawn",
-        "cheats_invincibleEnemies": "Rival inmortal",
+        "cheats_invincibleEnemies": "Enemigo inmortal",
         "cheats_killAllEnemies": "Matar a todos los enemigos",
         "cheats_quickSave": "Guardado rápido",
         "cheats_quickLoad": "Carga rápida",
         "cheats_saveMenu": "Organizar guardados",
-        "cheats_clear": "Mapa limpio",
+        "cheats_clear": "Limpiar mapa",
         "cheats_rebuildNav": "Navegación Rival",
         "cheats_snapping": "Chasquido",
-        "cheats_physics": "Física",
+        "cheats_physics": "Físicas",
         "cheats_crashMode": "Modo crash",
         
         "cheats_stayActive": "MANTENER ACTIVO",
@@ -1159,23 +1159,23 @@
     },
     
     "enemybios":{
-        "enemyBios_filth_1": "",
-        "enemyBios_filth_2": "",
-        "enemyBios_filth_3": "",
-        "enemyBios_filth_4": "",
+        "enemyBios_filth_1": "Las cascaras son la manisfestacion fisica de las almas de los condenados",
+        "enemyBios_filth_2": "La forma fisica está basada en el valor del alma original, que es determinado por la fuerza de su voluntad y su prevalencia en la conciencia publica: las almas vivas que lo recuerdan",
+        "enemyBios_filth_3": "Los Filth son la forma mas baja de cáscaras, cuyas almas fueron tan debiles y poco importantes para siquiera formar un cuerpo físico completo ",
+        "enemyBios_filth_4": "Incluso entre todos los cascarones, ellos tienen la menor inteligencia, conducidos puramente por el hambre ",
         
-        "enemyBios_filth_strategy1": "",
-        "enemyBios_filth_strategy2": "",
+        "enemyBios_filth_strategy1": "La mayoria de las armas son facilmente capaces de derribar al Filth, bero sus poderosas fauces y grandes numeros pueden aplastar a su objetivo rapidamente si se le subestima",
+        "enemyBios_filth_strategy2": "Los explosivos son la manera mas efectiva de derribar sus enjambres, pero cualquier arma que pueda golpear a mas de un objetivo será mas eficiente",
         
-        "enemyBios_stray_1": "",
-        "enemyBios_stray_2": "",
-        "enemyBios_stray_3": "",
+        "enemyBios_stray_1": "Si bien su alta estatura puede ser intimidante, los Stray tienen miedo al peligro y se mantendran a una distancia segura, solo atacando via proyectiles formados por Energia Infernal",
+        "enemyBios_stray_2": "Aunque controlar y manifestar esta energia es una labor complicada, los Strays tienen una inteligencia muy baja y son capaces de hacerlo por puro instinto",
+        "enemyBios_stray_3": "Sin embargo, los humanos son incapaces de replicar este nivel de precision y control, particularmente la habilidad de los Strays de causar que sus orbes de energia ignoren selectivamente a otros cascarones",
         
-        "enemyBios_stray_strategy1": "",
-        "enemyBios_stray_strategy2": "",
+        "enemyBios_stray_strategy1": "La mayoria de las armas son efectivas contra ellos, pero un disparo a la cabeza con el Revolver es la forma mas rapida y segura de eliminar un Stray",
+        "enemyBios_stray_strategy2": "debido a su naturaleza estatica y baja cadencia de ataques, son un objetivo excelente para devolver proyectiles",
         
-        "enemyBios_schism_1": "",
-        "enemyBios_schism_2": "",
+        "enemyBios_schism_1": "El resultado de dos almas intentando manifestarse en un mismo espacio, causando un amalgamio de dos cuerpos fisicos",
+        "enemyBios_schism_2": "Debido a la doble masa corporal, son bastantes resistentes al daño, pero tienen un control motriz muy pobre, y por lo tanto, no pueden apuntar con ningun grado de precision, recurriendo al bombardeo de orbes de energia a la direccion general de su oponente",
         
         "enemyBios_schism_strategy1": "",
         "enemyBios_schism_strategy2": "",
